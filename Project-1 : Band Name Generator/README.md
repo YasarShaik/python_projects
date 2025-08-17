@@ -1,7 +1,8 @@
 # Project 1. Band Name Generator.
 
 ### This project is a simple code written using the very basic function of Python.
-This code marks my first steps into Python
+This code marks my first steps into Python:
+[View Full Code](code.py)
 
 ## 🧠 Topics Covered
 This simple Python script introduces several foundational programming concepts:
