@@ -34,9 +34,32 @@ city = input("What's the city you grew up in?\n")
 - The program pauses and waits for the user to type in a city name. That input is stored in the variable `city`.
 
 #### 3. Asking for the pet's name
-``` python
+```python
 pet_name = input("\nWhat's your pet's name?\n")
 ```
 - Similarly, this captures the pet's name and stores it in `pet_name`.
 
+#### 4. Generating the brand name
+```python
+print("\n\nYour band name could be called - "+"'"+city+" "+ pet_name+"'")
+```
+- This line combines the two inputs into a fun, personalized band name and prints it out.
+- This line used basic string concatenation to combine the two strings available in the variables `city` and `pet_name`, hence genrating a band name for the user.
 
+## 🎸 Final Output Example
+
+If the user enters:
+
+- City: **Mumbai**
+- Pet Name: **Whiskers**
+
+The output will be:
+
+```text
+You band name could be called – 'Mumbai Whiskers'
+```
+- This happens as follows:
+  * After taking inputs the variables are saved as -
+    `city` = **Mumbai**
+    `pet_name` = **Whiskers**
+  * And then while printing the print function says - `"'"+city+" "+ pet_name+"'"` -> '`city` + `pet_name`' i.e. **'Mumbai Whiskers'**
