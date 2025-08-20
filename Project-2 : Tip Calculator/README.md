@@ -34,4 +34,10 @@ frnds = int(input("How many people will split the bill?\n"))
 - `tip`: Tip percentage, converted to an integer.
 - `frnds`: Number of people splitting the bill.
 
+3. - Tip Calculation
+```python
+tip_percent = tip / 100
+tip_amount = bill * tip_percent
+```
+- Converts the tip percentage into a decimal and calculates the tip amount.
 
