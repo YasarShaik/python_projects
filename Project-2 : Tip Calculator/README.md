@@ -55,4 +55,22 @@ final_amount_pp = round(bill_for_each, 2)
 - Divides the total bill by the number of friends.
 - Rounds the result to 2 decimal places for clean currency formatting.
 
+### 6. - Final Output
+```python
+print(f"\nEach person should pay - ${final_amount_pp}")
+```
+- Displays the final amount each person owes.
+
+## 💡 Example Output
+If the user enters:
+- Bill: $120.50
+- Tip: 15
+- Friends: 3
+The output will be:
+```text
+Each person should pay - $46.86
+```
+
+
+!
 
