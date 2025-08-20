@@ -41,3 +41,10 @@ tip_amount = bill * tip_percent
 ```
 - Converts the tip percentage into a decimal and calculates the tip amount.
 
+4. Total Bill Calculation
+```python
+total_bill = bill + tip_amount
+```
+- Adds the tip to the original bill.
+
+
