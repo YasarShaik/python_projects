@@ -66,11 +66,9 @@ If the user enters:
 - Bill: $120.50
 - Tip: 15
 - Friends: 3
+
 The output will be:
 ```text
 Each person should pay - $46.86
 ```
-
-
-!
 
