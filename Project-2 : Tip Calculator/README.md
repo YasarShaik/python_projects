@@ -18,13 +18,13 @@ It’s practical, beginner-friendly, and sets the stage for more advanced concep
 
 ## 🔄 Flow of the Code
 Let’s walk through the logic step-by-step:
-1. Welcome Message
+### 1. Welcome Message
 ```python
 print("Welcome to the tip calculator!\n\n")
 ```
 - Sets the tone and lets the user know what the program does.
 
-2.  User Inputs
+### 2.  User Inputs
 ```python
 bill = float(input("How much is the total bill?\n$"))
 tip = int(input("How much tip would you like to give?(10, 12 or 15)\n"))
@@ -34,17 +34,25 @@ frnds = int(input("How many people will split the bill?\n"))
 - `tip`: Tip percentage, converted to an integer.
 - `frnds`: Number of people splitting the bill.
 
-3. - Tip Calculation
+### 3. - Tip Calculation
 ```python
 tip_percent = tip / 100
 tip_amount = bill * tip_percent
 ```
 - Converts the tip percentage into a decimal and calculates the tip amount.
 
-4. Total Bill Calculation
+### 4. Total Bill Calculation
 ```python
 total_bill = bill + tip_amount
 ```
 - Adds the tip to the original bill.
+
+### 5. Split the Bill
+```python
+bill_for_each = total_bill / frnds
+final_amount_pp = round(bill_for_each, 2)
+```
+- Divides the total bill by the number of friends.
+- Rounds the result to 2 decimal places for clean currency formatting.
 
 
