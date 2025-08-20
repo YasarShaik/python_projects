@@ -9,6 +9,8 @@ This code introduces several key Python concepts that are essential for building
 - `round()` function: For formatting output to two decimal places.
 - f-strings: A modern and readable way to embed variables directly into strings.
 
+### [Access The Code for the project here](code.py)
+
 ## 🚀 How This Helps in My Python Journey
 This script is a great step forward from basic input/output programs. It teaches you:
 - How to handle user input and convert it to the correct data type.
