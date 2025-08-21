@@ -16,6 +16,7 @@ This script is a great step forward from basic input/output programs. It teaches
 - How to handle user input and convert it to the correct data type.
 - How to perform calculations based on dynamic input, which is the backbone of many financial, scientific, and gaming applications.
 - How to format output for clarity and professionalism, especially important in user-facing tools.
+
 It’s practical, beginner-friendly, and sets the stage for more advanced concepts like functions, error handling, and GUIs.
 
 ## 🔄 Flow of the Code
