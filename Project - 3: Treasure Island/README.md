@@ -91,7 +91,7 @@ print(r'''...''')
 print("Here's your prize for your work! \n[ WINNER! ]")
 ```
 - A visual reward for making the right choices.
-
+# 
 ## 🧩 Example Playthrough
 If the user chooses:
 - `left` → `wait` → `yellow`
@@ -172,3 +172,9 @@ Here's your prize for your work!
 
 Process finished with exit code 0
 ```
+
+## 💡 Ideas to Expand
+- Add **score tracking** or **inventory items**.
+- Use **functions** to modularize each decision.
+- Add **random events** or **timed challenges**.
+- Create a **GUI version** with `tkinter` or `pygame`.
