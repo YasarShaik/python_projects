@@ -83,3 +83,76 @@ elif opt3.lower() == "yellow":
 else:
     # Invalid input
 ```
+
+
+
+
+
+
+
+```text
+*******************************************************************************
+          |                   |                  |                     |
+ _________|________________.=""_;=.______________|_____________________|_______
+|                   |  ,-"_,=""     `"=.|                  |
+|___________________|__"=._o`"-._        `"=.______________|___________________
+          |                `"=._o`"=._      _`"=._                     |
+ _________|_____________________:=._o "=._."_.-="'"=.__________________|_______
+|                   |    __.--" , ; `"=._o." ,-"""-._ ".   |
+|___________________|_._"  ,. .` ` `` ,  `"-._"-._   ". '__|___________________
+          |           |o`"=._` , "` `; .". ,  "-._"-._; ;              |
+ _________|___________| ;`-.o`"=._; ." ` '`."\ ` . "-._ /_______________|_______
+|                   | |o ;    `"-.o`"=._``  '` " ,__.--o;   |
+|___________________|_| ;     (#) `-.o `"=.`_.--"_o.-; ;___|___________________
+____/______/______/___|o;._    "      `".o|o_.--"    ;o;____/______/______/____
+/______/______/______/_"=._o--._        ; | ;        ; ;/______/______/______/_
+____/______/______/______/__"=._o--._   ;o|o;     _._;o;____/______/______/____
+/______/______/______/______/____"=._o._; | ;_.--"o.--"_/______/______/______/_
+____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
+/______/______/______/______/______/______/______/______/______/______/_____ /
+*******************************************************************************
+
+Welcome to Treasure Island.
+Your mission is to find the treasure.
+Enter your name: Alex
+
+You are a member of Captain Jack Sparrow's crew, and the Captain is in desperate 
+need of the treasure located near a secret island and you have been appointed 
+incharge for leading the crew to treasure.
+But the map is encoded and You are the decoder of the map! You reach an island and now lead their way.
+
+Captain: Where do we go next Alex, take me to the treasure!
+There is a cross-way in front, should you go 'left' or 'right'? left
+
+Captain: Great job Alex!
+Now let's swim across this river!
+Choose whether to 'wait' for the tide to go down or 'swim' across the river right now! wait
+Captain: Hay Ho crew!! We have a loong way to go, come on pack up your bags. Let's get into this cave and get back with our treasure!
+.
+.
+.
+.
+Now where do we go Alex?
+This place has three ways ahead!!
+The three ways ahead are differentiated with the help of the light coming through them - | Red | Yellow | Blue |? yellow
+Captain: Great job champion! I'll let you have a third of the quarter of this treasure for your commendable work!
+
+                  (_v_)                   
+                   _|_                    
+                   | |                    
+              |-----+-----|          ,%%%.      
+              |    1ST    |          % 1 %      
+              |   PRIZE   |          `%%%'      
+               '---------'            ( (       
+                \       /             )  )      
+                 '.   .'             (   (      
+                   | |                )'  )     
+                  .' '.              (/ \/  
+                 _|___|_                  
+                [#######]              
+            
+Here's your prize for your work! 
+[ WINNER! ]
+
+Process finished with exit code 0
+```
