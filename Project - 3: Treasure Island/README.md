@@ -83,13 +83,26 @@ elif opt3.lower() == "yellow":
 else:
     # Invalid input
 ```
+- The `.lower()` method could be used to simplify case-insensitive checks. Yellow leads to treasure and a celebratory ASCII trophy.
+
+### 7. Victory Message with ASCII Art
+```python
+print(r'''...''')
+print("Here's your prize for your work! \n[ WINNER! ]")
+```
+- A visual reward for making the right choices.
+
+## 🧩 Example Playthrough
+If the user chooses:
+- `left` → `wait` → `yellow`
+They’ll see:
+```text
+Captain: Great job champion! I'll let you have a third of the quarter of this treasure...
+[ WINNER! ]
+```
 
 
-
-
-
-
-
+### Total walkthrough and final result of the game 👇
 ```text
 *******************************************************************************
           |                   |                  |                     |
@@ -138,20 +151,22 @@ This place has three ways ahead!!
 The three ways ahead are differentiated with the help of the light coming through them - | Red | Yellow | Blue |? yellow
 Captain: Great job champion! I'll let you have a third of the quarter of this treasure for your commendable work!
 
-                  (_v_)                   
-                   _|_                    
-                   | |                    
-              |-----+-----|          ,%%%.      
-              |    1ST    |          % 1 %      
-              |   PRIZE   |          `%%%'      
-               '---------'            ( (       
-                \       /             )  )      
-                 '.   .'             (   (      
-                   | |                )'  )     
-                  .' '.              (/ \/  
-                 _|___|_                  
-                [#######]              
-            
+*********************************************************
+|                  (_v_)                                |
+|                   _|_                                 |
+|                   | |                                 |
+|              |-----+-----|          ,%%%.             |
+|              |    1ST    |          % 1 %             |
+|              |   PRIZE   |          `%%%'             |
+|               '---------'            ( (              |
+|                \       /             )  )             |
+|                 '.   .'             (   (             |
+|                   | |                )'  )            |
+|                  .' '.              (/ \/             |
+|                 _|___|_                               |
+|                [#######]                              |
+|                                                       |
+*********************************************************            
 Here's your prize for your work! 
 [ WINNER! ]
 
