@@ -127,7 +127,8 @@ There is a cross-way in front, should you go 'left' or 'right'? left
 Captain: Great job Alex!
 Now let's swim across this river!
 Choose whether to 'wait' for the tide to go down or 'swim' across the river right now! wait
-Captain: Hay Ho crew!! We have a loong way to go, come on pack up your bags. Let's get into this cave and get back with our treasure!
+Captain: Hay Ho crew!! We have a loong way to go, come on pack up your bags. 
+Let's get into this cave and get back with our treasure!
 .
 .
 .
