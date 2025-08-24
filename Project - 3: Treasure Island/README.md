@@ -59,6 +59,27 @@ else:
 ```
 - A classic branching path. Choosing wrong leads to _alligators_ and a _game over_.
 
+### 5. Second Decision: Wait or Swim
 
+```python
+opt2 = input("...wait or swim?")
+if opt2 == "swim":
+    # Game over
+else:
+    # Continue
+```
+- Another decision point with consequences. Waiting is the safe choice.
 
+### 6. Final Decision: Red, Yellow, or Blue Tunnel
 
+```python
+opt3 = input("...Red | Yellow | Blue?")
+if opt3.lower() == "red":
+    # Fire trap
+elif opt3.lower() == "blue":
+    # Monsters
+elif opt3.lower() == "yellow":
+    # Victory!
+else:
+    # Invalid input
+```
