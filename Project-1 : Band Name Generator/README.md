@@ -51,8 +51,8 @@ print("\n\nYour band name could be called - "+"'"+city+" "+ pet_name+"'")
 
 If the user enters:
 
-- City: **Mumbai**
-- Pet Name: **Whiskers**
+- City: `Mumbai`
+- Pet Name: `Whiskers`
 
 The output will be:
 
@@ -64,3 +64,19 @@ You band name could be called – 'Mumbai Whiskers'
     `city` = **Mumbai**
     `pet_name` = **Whiskers**
   * And then while printing the print function says - `"'"+city+" "+ pet_name+"'"` -> '`city` + `pet_name`' i.e. **'Mumbai Whiskers'**
+ 
+ ##
+##### Updating on - 26<sup>th</sup> August 2025
+
+- As a knowledge taken from 'Project - 2', few changes can be made to this code - like using **_f-strings_** for the result printing:
+  _Example:_
+Instead of writing.
+
+```python
+print("\n\nYour band name could be called - "+"'"+city+" "+ pet_name+"'")
+```
+We could write -
+
+```python
+print(f"\n\nYour band name could be called - '{city} {pet_name}'")
+```
