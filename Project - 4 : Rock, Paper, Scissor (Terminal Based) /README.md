@@ -7,7 +7,7 @@ A simple terminal-based Rock Paper Scissors game built using Python.
 
 This project helped me practice conditional statements, user input handling, lists, and Python's `random` module while creating an interactive game.
 
-🔗 [View Full Code](https://github.com/YasarShaik/python_projects)
+🔗 [View Full Code]([https://github.com/YasarShaik/python_projects](https://github.com/YasarShaik/python_projects/blob/main/Project%20-%204%20%3A%20Rock%2C%20Paper%2C%20Scissor%20(Terminal%20Based)%20/main.py))
 
 ---
 
