@@ -234,5 +234,5 @@ It introduced concepts that are widely used in real-world software development:
 - logic structuring,
 - and cleaner code design.
 
-A small project — but a huge step forward in my Python journey 🚀
+A small project, but a huge step forward in my Python journey 🚀
 
