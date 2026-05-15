@@ -6,4 +6,4 @@ Python has become the go-to language for AI and Machine Learning, and for good r
 Whether you're aiming for a career in AI/ML or simply exploring the field out of curiosity, Python offers a smooth learning curve and powerful tools to bring your ideas to life. This repository showcases my journey through Python, featuring projects that span foundational concepts to more advanced applications.
 
 I aim to develop atleast a **100 projects developed using Python** for this purpose, they might be unique, they might be the best but also they might be adopted, they might be smthng a five year old could do, and smthng that turns out extremely disastrous.
-But still, I will try my best through this journey. 
+But still, I will try my best through this journey.
